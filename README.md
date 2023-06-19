@@ -9,13 +9,18 @@ This Project is based on and inspired by a classic game from the 80's.
 - Screen: 3
 ![Captura de Tela (4)](https://github.com/Ottavvi/Duck/assets/122318260/f26daee4-1746-4184-98a1-1a5848ccacfe)
 
+# Plataform
+- For Windows
+  
 # Download
 https://ottavvio.itch.io/duck
+
 # Technologies Used
 - Godot
 - Chatgpt
 - Youtube
 - Video classes
+
 # Author
 - Otávio Luiz Oliveira Medeiros
 - RA: 12822120886
