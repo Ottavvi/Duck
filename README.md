@@ -14,3 +14,6 @@ https://ottavvio.itch.io/duck
 # Tecnologias utilizadas
 - Godot
 - Chatgpt
+# Author
+- Otávio Luiz Oliveira Medeiros
+- RA: 12822120886
